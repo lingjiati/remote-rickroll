@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/remote-rickroll/static/css/main.a617e044.chunk.css",
+    "main.js": "/remote-rickroll/static/js/main.2d4e3bdb.chunk.js",
+    "main.js.map": "/remote-rickroll/static/js/main.2d4e3bdb.chunk.js.map",
+    "runtime-main.js": "/remote-rickroll/static/js/runtime-main.d19c53ba.js",
+    "runtime-main.js.map": "/remote-rickroll/static/js/runtime-main.d19c53ba.js.map",
+    "static/css/2.9b1bb7f8.chunk.css": "/remote-rickroll/static/css/2.9b1bb7f8.chunk.css",
+    "static/js/2.0ae1032f.chunk.js": "/remote-rickroll/static/js/2.0ae1032f.chunk.js",
+    "static/js/2.0ae1032f.chunk.js.map": "/remote-rickroll/static/js/2.0ae1032f.chunk.js.map",
+    "static/js/3.4a32ed3c.chunk.js": "/remote-rickroll/static/js/3.4a32ed3c.chunk.js",
+    "static/js/3.4a32ed3c.chunk.js.map": "/remote-rickroll/static/js/3.4a32ed3c.chunk.js.map",
+    "index.html": "/remote-rickroll/index.html",
+    "static/css/2.9b1bb7f8.chunk.css.map": "/remote-rickroll/static/css/2.9b1bb7f8.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/remote-rickroll/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0ae1032f.chunk.js.LICENSE.txt": "/remote-rickroll/static/js/2.0ae1032f.chunk.js.LICENSE.txt",
+    "static/media/rickroll.9ea6b6fd.mp3": "/remote-rickroll/static/media/rickroll.9ea6b6fd.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d19c53ba.js",
+    "static/css/2.9b1bb7f8.chunk.css",
+    "static/js/2.0ae1032f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2d4e3bdb.chunk.js"
+  ]
+}
