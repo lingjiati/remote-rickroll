@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/remote-rickroll/static/css/main.a617e044.chunk.css",
-    "main.js": "/remote-rickroll/static/js/main.b5b554db.chunk.js",
-    "main.js.map": "/remote-rickroll/static/js/main.b5b554db.chunk.js.map",
-    "runtime-main.js": "/remote-rickroll/static/js/runtime-main.fc90ab85.js",
-    "runtime-main.js.map": "/remote-rickroll/static/js/runtime-main.fc90ab85.js.map",
+    "main.js": "/remote-rickroll/static/js/main.0d0f5748.chunk.js",
+    "main.js.map": "/remote-rickroll/static/js/main.0d0f5748.chunk.js.map",
+    "runtime-main.js": "/remote-rickroll/static/js/runtime-main.a743347b.js",
+    "runtime-main.js.map": "/remote-rickroll/static/js/runtime-main.a743347b.js.map",
     "static/css/2.9b1bb7f8.chunk.css": "/remote-rickroll/static/css/2.9b1bb7f8.chunk.css",
-    "static/js/2.249bbf19.chunk.js": "/remote-rickroll/static/js/2.249bbf19.chunk.js",
-    "static/js/2.249bbf19.chunk.js.map": "/remote-rickroll/static/js/2.249bbf19.chunk.js.map",
-    "static/js/3.4e3b0eb5.chunk.js": "/remote-rickroll/static/js/3.4e3b0eb5.chunk.js",
-    "static/js/3.4e3b0eb5.chunk.js.map": "/remote-rickroll/static/js/3.4e3b0eb5.chunk.js.map",
+    "static/js/2.481ca5b7.chunk.js": "/remote-rickroll/static/js/2.481ca5b7.chunk.js",
+    "static/js/2.481ca5b7.chunk.js.map": "/remote-rickroll/static/js/2.481ca5b7.chunk.js.map",
+    "static/js/3.d2016bbf.chunk.js": "/remote-rickroll/static/js/3.d2016bbf.chunk.js",
+    "static/js/3.d2016bbf.chunk.js.map": "/remote-rickroll/static/js/3.d2016bbf.chunk.js.map",
     "index.html": "/remote-rickroll/index.html",
     "static/css/2.9b1bb7f8.chunk.css.map": "/remote-rickroll/static/css/2.9b1bb7f8.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/remote-rickroll/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.249bbf19.chunk.js.LICENSE.txt": "/remote-rickroll/static/js/2.249bbf19.chunk.js.LICENSE.txt",
+    "static/js/2.481ca5b7.chunk.js.LICENSE.txt": "/remote-rickroll/static/js/2.481ca5b7.chunk.js.LICENSE.txt",
     "static/media/rickroll.9ea6b6fd.mp3": "/remote-rickroll/static/media/rickroll.9ea6b6fd.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc90ab85.js",
+    "static/js/runtime-main.a743347b.js",
     "static/css/2.9b1bb7f8.chunk.css",
-    "static/js/2.249bbf19.chunk.js",
+    "static/js/2.481ca5b7.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.b5b554db.chunk.js"
+    "static/js/main.0d0f5748.chunk.js"
   ]
 }
