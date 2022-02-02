@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/remote-lighting/static/css/main.443d8e8d.chunk.css",
-    "main.js": "/remote-lighting/static/js/main.773bc23c.chunk.js",
-    "main.js.map": "/remote-lighting/static/js/main.773bc23c.chunk.js.map",
-    "runtime-main.js": "/remote-lighting/static/js/runtime-main.f4047ff4.js",
-    "runtime-main.js.map": "/remote-lighting/static/js/runtime-main.f4047ff4.js.map",
+    "main.js": "/remote-lighting/static/js/main.9f8b2f89.chunk.js",
+    "main.js.map": "/remote-lighting/static/js/main.9f8b2f89.chunk.js.map",
+    "runtime-main.js": "/remote-lighting/static/js/runtime-main.97c4f127.js",
+    "runtime-main.js.map": "/remote-lighting/static/js/runtime-main.97c4f127.js.map",
     "static/css/2.98990ea1.chunk.css": "/remote-lighting/static/css/2.98990ea1.chunk.css",
-    "static/js/2.e2390003.chunk.js": "/remote-lighting/static/js/2.e2390003.chunk.js",
-    "static/js/2.e2390003.chunk.js.map": "/remote-lighting/static/js/2.e2390003.chunk.js.map",
-    "static/js/3.51113da5.chunk.js": "/remote-lighting/static/js/3.51113da5.chunk.js",
-    "static/js/3.51113da5.chunk.js.map": "/remote-lighting/static/js/3.51113da5.chunk.js.map",
+    "static/js/2.fa50040f.chunk.js": "/remote-lighting/static/js/2.fa50040f.chunk.js",
+    "static/js/2.fa50040f.chunk.js.map": "/remote-lighting/static/js/2.fa50040f.chunk.js.map",
+    "static/js/3.c8e20e58.chunk.js": "/remote-lighting/static/js/3.c8e20e58.chunk.js",
+    "static/js/3.c8e20e58.chunk.js.map": "/remote-lighting/static/js/3.c8e20e58.chunk.js.map",
     "index.html": "/remote-lighting/index.html",
     "static/css/2.98990ea1.chunk.css.map": "/remote-lighting/static/css/2.98990ea1.chunk.css.map",
     "static/css/main.443d8e8d.chunk.css.map": "/remote-lighting/static/css/main.443d8e8d.chunk.css.map",
-    "static/js/2.e2390003.chunk.js.LICENSE.txt": "/remote-lighting/static/js/2.e2390003.chunk.js.LICENSE.txt"
+    "static/js/2.fa50040f.chunk.js.LICENSE.txt": "/remote-lighting/static/js/2.fa50040f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4047ff4.js",
+    "static/js/runtime-main.97c4f127.js",
     "static/css/2.98990ea1.chunk.css",
-    "static/js/2.e2390003.chunk.js",
+    "static/js/2.fa50040f.chunk.js",
     "static/css/main.443d8e8d.chunk.css",
-    "static/js/main.773bc23c.chunk.js"
+    "static/js/main.9f8b2f89.chunk.js"
   ]
 }
