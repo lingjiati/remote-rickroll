@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/remote-lighting/static/css/main.443d8e8d.chunk.css",
-    "main.js": "/remote-lighting/static/js/main.9f8b2f89.chunk.js",
-    "main.js.map": "/remote-lighting/static/js/main.9f8b2f89.chunk.js.map",
-    "runtime-main.js": "/remote-lighting/static/js/runtime-main.97c4f127.js",
-    "runtime-main.js.map": "/remote-lighting/static/js/runtime-main.97c4f127.js.map",
-    "static/css/2.98990ea1.chunk.css": "/remote-lighting/static/css/2.98990ea1.chunk.css",
-    "static/js/2.fa50040f.chunk.js": "/remote-lighting/static/js/2.fa50040f.chunk.js",
-    "static/js/2.fa50040f.chunk.js.map": "/remote-lighting/static/js/2.fa50040f.chunk.js.map",
-    "static/js/3.c8e20e58.chunk.js": "/remote-lighting/static/js/3.c8e20e58.chunk.js",
-    "static/js/3.c8e20e58.chunk.js.map": "/remote-lighting/static/js/3.c8e20e58.chunk.js.map",
-    "index.html": "/remote-lighting/index.html",
-    "static/css/2.98990ea1.chunk.css.map": "/remote-lighting/static/css/2.98990ea1.chunk.css.map",
-    "static/css/main.443d8e8d.chunk.css.map": "/remote-lighting/static/css/main.443d8e8d.chunk.css.map",
-    "static/js/2.fa50040f.chunk.js.LICENSE.txt": "/remote-lighting/static/js/2.fa50040f.chunk.js.LICENSE.txt"
+    "main.css": "/remote-rickroll/static/css/main.a617e044.chunk.css",
+    "main.js": "/remote-rickroll/static/js/main.74192884.chunk.js",
+    "main.js.map": "/remote-rickroll/static/js/main.74192884.chunk.js.map",
+    "runtime-main.js": "/remote-rickroll/static/js/runtime-main.a743347b.js",
+    "runtime-main.js.map": "/remote-rickroll/static/js/runtime-main.a743347b.js.map",
+    "static/css/2.9b1bb7f8.chunk.css": "/remote-rickroll/static/css/2.9b1bb7f8.chunk.css",
+    "static/js/2.8cde7e79.chunk.js": "/remote-rickroll/static/js/2.8cde7e79.chunk.js",
+    "static/js/2.8cde7e79.chunk.js.map": "/remote-rickroll/static/js/2.8cde7e79.chunk.js.map",
+    "static/js/3.d2016bbf.chunk.js": "/remote-rickroll/static/js/3.d2016bbf.chunk.js",
+    "static/js/3.d2016bbf.chunk.js.map": "/remote-rickroll/static/js/3.d2016bbf.chunk.js.map",
+    "index.html": "/remote-rickroll/index.html",
+    "static/css/2.9b1bb7f8.chunk.css.map": "/remote-rickroll/static/css/2.9b1bb7f8.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/remote-rickroll/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8cde7e79.chunk.js.LICENSE.txt": "/remote-rickroll/static/js/2.8cde7e79.chunk.js.LICENSE.txt",
+    "static/media/rickroll.101b949c.mp3": "/remote-rickroll/static/media/rickroll.101b949c.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.97c4f127.js",
-    "static/css/2.98990ea1.chunk.css",
-    "static/js/2.fa50040f.chunk.js",
-    "static/css/main.443d8e8d.chunk.css",
-    "static/js/main.9f8b2f89.chunk.js"
+    "static/js/runtime-main.a743347b.js",
+    "static/css/2.9b1bb7f8.chunk.css",
+    "static/js/2.8cde7e79.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.74192884.chunk.js"
   ]
 }
